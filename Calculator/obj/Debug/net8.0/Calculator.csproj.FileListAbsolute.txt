@@ -1,0 +1,14 @@
+D:\www\csharp\fundamentoscsharpbalta\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\www\csharp\fundamentoscsharpbalta\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\www\csharp\fundamentoscsharpbalta\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\www\csharp\fundamentoscsharpbalta\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\www\csharp\fundamentoscsharpbalta\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\www\csharp\fundamentoscsharpbalta\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\csharp\fundamentoscsharpbalta\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\www\csharp\fundamentoscsharpbalta\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\www\csharp\fundamentoscsharpbalta\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\www\csharp\fundamentoscsharpbalta\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\www\csharp\fundamentoscsharpbalta\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\www\csharp\fundamentoscsharpbalta\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\www\csharp\fundamentoscsharpbalta\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\www\csharp\fundamentoscsharpbalta\Calculator\obj\Debug\net8.0\ref\Calculator.dll

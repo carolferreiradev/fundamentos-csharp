@@ -1,0 +1,14 @@
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\obj\Debug\net8.0\ProgrammingLanguageCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\obj\Debug\net8.0\ProgrammingLanguageCSharp.AssemblyInfoInputs.cache
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\obj\Debug\net8.0\ProgrammingLanguageCSharp.AssemblyInfo.cs
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\obj\Debug\net8.0\ProgrammingLanguageCSharp.csproj.CoreCompileInputs.cache
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\bin\Debug\net8.0\ProgrammingLanguageCSharp.exe
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\bin\Debug\net8.0\ProgrammingLanguageCSharp.deps.json
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\bin\Debug\net8.0\ProgrammingLanguageCSharp.runtimeconfig.json
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\bin\Debug\net8.0\ProgrammingLanguageCSharp.dll
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\bin\Debug\net8.0\ProgrammingLanguageCSharp.pdb
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\obj\Debug\net8.0\ProgrammingLanguageCSharp.dll
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\obj\Debug\net8.0\refint\ProgrammingLanguageCSharp.dll
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\obj\Debug\net8.0\ProgrammingLanguageCSharp.pdb
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\obj\Debug\net8.0\ProgrammingLanguageCSharp.genruntimeconfig.cache
+D:\www\csharp\fundamentoscsharpbalta\ProgrammingLanguageCSharp\obj\Debug\net8.0\ref\ProgrammingLanguageCSharp.dll

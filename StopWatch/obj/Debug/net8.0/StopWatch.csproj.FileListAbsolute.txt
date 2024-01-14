@@ -1,0 +1,14 @@
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\bin\Debug\net8.0\StopWatch.exe
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\bin\Debug\net8.0\StopWatch.deps.json
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\bin\Debug\net8.0\StopWatch.runtimeconfig.json
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\bin\Debug\net8.0\StopWatch.dll
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\bin\Debug\net8.0\StopWatch.pdb
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\obj\Debug\net8.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\obj\Debug\net8.0\StopWatch.AssemblyInfoInputs.cache
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\obj\Debug\net8.0\StopWatch.AssemblyInfo.cs
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\obj\Debug\net8.0\StopWatch.csproj.CoreCompileInputs.cache
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\obj\Debug\net8.0\StopWatch.dll
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\obj\Debug\net8.0\refint\StopWatch.dll
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\obj\Debug\net8.0\StopWatch.pdb
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\obj\Debug\net8.0\StopWatch.genruntimeconfig.cache
+D:\www\csharp\fundamentoscsharpbalta\StopWatch\obj\Debug\net8.0\ref\StopWatch.dll
